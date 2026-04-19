@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.log
+waf_env/
+.env
